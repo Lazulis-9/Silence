@@ -1,0 +1,9 @@
+{
+  "currency": {
+    "name": "Ludus chartarum",
+    "code": "LC",
+    "rate_to_usd": 1.0,
+    "decimal_places": 2,
+    "admin_approval_required": true
+  }
+}

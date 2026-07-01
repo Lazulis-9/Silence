@@ -1,0 +1,7 @@
+{
+  "sections": [
+    {"id": "交流部", "description": "自由讨论区"},
+    {"id": "理论部", "description": "研究与学术讨论"},
+    {"id": "公告", "description": "管理员公告与通知"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "questionnaire": [
+    {"id": 1, "q": "你的真实身份是什么？", "type": "text", "required": true},
+    {"id": 2, "q": "你加入我们的理由？", "type": "text", "required": true},
+    {"id": 3, "q": "你想要什么？", "type": "text", "required": true},
+    {"id": 4, "q": "你的 IQ 为多少？（请上传医院凭证）", "type": "file", "required": true},
+    {"id": 5, "q": "你对我们有多少忠诚？请描述理由。", "type": "text", "required": true},
+    {"id": 6, "q": "你是谁推荐的？", "type": "text", "required": false},
+    {"id": 7, "q": "你能为我们做什么？", "type": "text", "required": true},
+    {"id": 8, "q": "加入前是否有相关经历？", "type": "text", "required": false},
+    {"id": 9, "q": "你觉得你值得我们信任吗？请说明。", "type": "text", "required": true},
+    {"id": 10, "q": "你的名字（并给出理由）", "type": "text", "required": true}
+    // 其余 20 个问题可后续通过管理后台添加
+  ]
+}
